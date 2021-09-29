@@ -1,0 +1,2 @@
+# Libraries requirements
+# Ex: numpy==1.21.0
